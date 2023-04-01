@@ -1,0 +1,27 @@
+.navBar, .navBar__option__contanner
+{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}
+
+.navBar {
+    height: 3rem;
+}
+
+.navBar__logo {
+    padding: 0.5rem;  
+    font-size: x-large;
+    font-weight: bolder;
+}
+
+
+.navBar__option {
+    margin: 0 2rem;
+    padding: 10px 0;
+    border-bottom: solid 2px white;
+}
+
+.navBar__option:hover {
+    border-bottom: solid 2px black;
+}

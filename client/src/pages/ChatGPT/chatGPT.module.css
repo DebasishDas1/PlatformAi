@@ -1,0 +1,21 @@
+.chatGPT__container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.chatGPT__box {
+    width: 80vw;
+    padding: 2rem;
+    background: tomato;
+}
+
+.chatGPT__box__title{
+    width: 100%;
+    font-size: xx-large;
+    font-weight: bolder;
+    display: flex;
+    justify-content: center;
+    background-color: aqua;
+}
